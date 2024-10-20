@@ -1,0 +1,178 @@
+[
+    {
+        "id": "W-021",
+        "title": "",
+        "description": "",
+        "tags": [],
+        "link": "assets/documents/.pdf"
+    },
+    {
+        "id": "W-021",
+        "title": "",
+        "description": "",
+        "tags": [],
+        "link": "assets/documents/.pdf"
+    },
+    {
+        "id": "W-021",
+        "title": "",
+        "description": "",
+        "tags": [],
+        "link": "assets/documents/si250-designsprint-internship-broker.pdf"
+    },
+    {
+        "id": "W-021",
+        "title": "How can BU Students help other BU Students get Internships?",
+        "description": "Mid-semester Design Sprint project for SI250.",
+        "tags": ["questrom", "boston-university"],
+        "link": "assets/documents/SI250-Final-TheHomeRule.pdf.pdf"
+    },
+    {
+        "id": "W-020",
+        "title": "How would de Beauvoir recommend that we respond to Nietzsche’s “Free Spirits?”",
+        "description": "Existentialism",
+        "tags": ["philosophy", "literature", "writing", "boston-university"],
+        "link": "assets/documents/PH248LongPaper.pdf"
+    },
+    {
+        "id": "W-019",
+        "title": "Sartre’s Components of Action and Their Connection to Radical Freedom",
+        "description": "Existentialism",
+        "tags": ["philosophy", "literature", "writing", "boston-university"],
+        "link": "assets/documents/PH248MediumPaper2.pdf"
+    },
+    {
+        "id": "W-018",
+        "title": "What would Kierkegaard say is wrong with the Underground man?",
+        "description": "Existentialism",
+        "tags": ["philosophy", "literature", "writing", "boston-university"],
+        "link": "assets/documents/PH248MediumPaper1.pdf"
+    },
+    {
+        "id": "W-017",
+        "title": "Navigating Anguish in Sartre’s Existential Philosophy",
+        "description": "Existentialism",
+        "tags": [],
+        "link": "assets/documents/PH248ShortPaper3.pdf"
+    },
+    {
+        "id": "W-016",
+        "title": "Can a Free Spirit be Noble?",
+        "description": "Existentialism",
+        "tags": ["philosophy", "literature", "writing", "boston-university"],
+        "link": "assets/documents/PH248ShortPaper2.pdf"
+    },
+    {
+        "id": "W-015",
+        "title": "What is Fundamentally Wrong with the Underground Man?",
+        "description": "Existentialism",
+        "tags": ["philosophy", "literature", "writing", "boston-university"],
+        "link": "assets/documents/PH248ShortPaper1.pdf"
+    },
+    {
+        "id": "W-014",
+        "title": "How Do Boston University Undergraduate Students Spend Their Dining Points?",
+        "description": "Research paper version of the analysis of Dining Point Usage Among Undergraduate Students at Boston University.",
+        "tags": ["data-science", "survey","boston-university"],
+        "link": "assets/documents/.pdf"
+    },
+    {
+        "id": "W-013",
+        "title": "Dining Point Usage Among Undergraduate Students at Boston University",
+        "description": "A survey based analysis on the preferences and abnf influences of undergraduate students at Boston University on their dining point usage.",
+        "tags": ["data-science", "survey", "boston-university"],
+        "link": "assets/documents/MA213-C4G1-Final-Presentation.pdf"
+    },
+    {
+        "id": "W-012",
+        "title": "Navigating Urbanization: The Impact on Crop Diversity and Agricultural Productivity in Indianapolis",
+        "description": "For the Harvard Data Science Initiative's 2024 Agri-Datathon.",
+        "tags": ["research", "agriculture", "urbanization", "data-science", "competition"],
+        "link": "assets/documents/HDSI-AGRI-Navigating-Urbanization-Indianapolis.pdf"
+    },
+    {
+        "id": "W-011",
+        "title": "Hack.Diversity Tech Dive Project: Analyzing Diamond Sales",
+        "description": "Month long sprint analyzing 400k rows diamond sales data for a fictional Diamond company to build a model to predict a diamond's price based on it's attributes.",
+        "tags": ["data-science"],
+        "link": "assets/documents/HD-TechDive-Project.pdf"
+    },
+    {
+        "id": "W-010",
+        "title": "Nonfiction Aesthetics Analysis of Narrative of the Life of Frederick Douglass",
+        "description": "For my Reading American Literature class with Dr. Koritha Mitchell.",
+        "tags": ["literature", "history", "writing", "boston-university"],
+        "link": "assets/documents/Frederick-Douglass-Nonfiction-Aesthetic-Analysis.pdf"
+    },
+    {
+        "id": "W-009",
+        "title": "Essai sur le salaire minimum",
+        "description": "An essay on why the minimum wage should be raised but in french.",
+        "tags": ["writing", "french"],
+        "link": "assets/documents/Essai-sur-le-salaire-minimum.pdf"
+    },
+    {
+        "id": "W-008",
+        "title": "A Critical Analysis of COVID-19 Policy Effectiveness",
+        "description": "Using data on COVID-19 cases and deaths, I analyzed the effectiveness of various COVID-19 policies in order to keep the rolling average of COVID-19 infection rate in caladan under 3%.",
+        "tags": ["data-science", "boston-university"],
+        "link": "assets/documents/DS310-Covid19-Policy-Effectiveness-Analysis.pdf"
+    },
+    {
+        "id": "W-007",
+        "title": "How Amazon creates 'similar products' recommendations",
+        "description": "Using graphs and Rust to analyze how Amazon's product recommendation system is powered by user product reviews. DS310 final project.",
+        "tags": ["data-science", "graphs", "rust", "boston-university"],
+        "link": "assets/documents/DS210-Final-Report.pdf"
+    },
+    {
+        "id": "W-006",
+        "title": "Exploring the Connection Between Open Spaces and Crime Rates in Boston Neighborhoods",
+        "description": "Final project for my DS110 class and first ever data science project.",
+        "tags": ["data-science", "boston", "crime", "boston-university"],
+        "link": "assets/documents/DS110-Final-OpenSpaces-and-BostonCrime.pdf"
+    },
+    {
+        "id": "W-005",
+        "title": "Rhetorical Analysis of Ed Zitron's 'The Man who Killed Google Search'",
+        "description": "For my CS115 class, I analyzed Ed Zitron's article exposing the true cause of Google's search engine decline.",
+        "tags": ["literature", "rhetorical-analysis", "writing", "boston-university"],
+        "link": "assets/documents/CS115-Rhetorical-Analysis-of-Ed-Zitron.pdf"
+    },
+    {
+        "id": "W-004",
+        "title": "Xenophobia: An Evolutionary Survival Mechanism",
+        "description": "Exploring the evolutionary roots of xenophobia, a negative motivational system.",
+        "tags": ["writing", "evolution", "xenophobia", "boston-university"],
+        "link": "assets/documents/AN234-Xenophobia-Evolutionary-Survival-Mechanism.pdf"
+    },
+    {
+        "id": "W-003",
+        "title": "BUBizTech Accenture Case Comp. Furniture Industry Analysis",
+        "description": "An month long sprint analyzing the furniture industry for the Fall '23 Biztech Accenture Case Competition.",
+        "tags": ["consulting", "business", "competition", "boston-university"],
+        "link": "assets/documents/BUBiztech-Accenture-Case-Comp.-Furniture-Industry-Analysis.pdf"
+    },
+    {
+        "id": "W-002",
+        "title": "The Effect of Religion on Society Represented Through Dubliners",
+        "description": "An analysis of how religion influences societal norms in James Joyce's Dubliners.",
+        "tags": ["literature", "society", "writing", "boston-university"],
+        "link": "assets/documents/religion-dubliners.pdf"
+    },
+    {
+        "id": "W-001",
+        "title": "What to the Underrepresented Minority is the Digital Utopia",
+        "description": "Exploring digital spaces from the perspective of underrepresented minorities.",
+        "tags": ["technology", "society", "boston-university"],
+        "link": "assets/documents/digital-douglass.pdf"
+    },
+    {
+        "id": "E-003",
+        "title": "The Impact of AI on Modern Education",
+        "description": "An essay on how artificial intelligence is shaping educational practices.",
+        "tags": ["technology", "education"],
+        "link": "assets/documents/ai-modern-education.pdf"
+    }
+   
+]
