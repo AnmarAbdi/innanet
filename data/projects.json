@@ -52,7 +52,7 @@
         "id": "W-017",
         "title": "Navigating Anguish in Sartre’s Existential Philosophy",
         "description": "Existentialism",
-        "tags": [],
+        "tags": ["philosophy", "literature", "writing", "boston-university"],
         "link": "assets/documents/PH248ShortPaper3.pdf"
     },
     {
@@ -122,21 +122,21 @@
         "id": "W-007",
         "title": "How Amazon creates 'similar products' recommendations",
         "description": "Using graphs and Rust to analyze how Amazon's product recommendation system is powered by user product reviews. DS310 final project.",
-        "tags": ["data-science", "graphs", "rust", "boston-university"],
+        "tags": ["data-science", "graphs", "boston-university"],
         "link": "assets/documents/DS210-Final-Report.pdf"
     },
     {
         "id": "W-006",
         "title": "Exploring the Connection Between Open Spaces and Crime Rates in Boston Neighborhoods",
         "description": "Final project for my DS110 class and first ever data science project.",
-        "tags": ["data-science", "boston", "crime", "boston-university"],
+        "tags": ["data-science", "boston", "urbanization", "boston-university"],
         "link": "assets/documents/DS110-Final-OpenSpaces-and-BostonCrime.pdf"
     },
     {
         "id": "W-005",
         "title": "Rhetorical Analysis of Ed Zitron's 'The Man who Killed Google Search'",
         "description": "For my CS115 class, I analyzed Ed Zitron's article exposing the true cause of Google's search engine decline.",
-        "tags": ["literature", "rhetorical-analysis", "writing", "boston-university"],
+        "tags": ["literature", "writing", "boston-university"],
         "link": "assets/documents/CS115-Rhetorical-Analysis-of-Ed-Zitron.pdf"
     },
     {
@@ -164,14 +164,14 @@
         "id": "W-001",
         "title": "What to the Underrepresented Minority is the Digital Utopia",
         "description": "Exploring digital spaces from the perspective of underrepresented minorities.",
-        "tags": ["technology", "society", "boston-university"],
+        "tags": ["technology", "society","literature", "writing", "boston-university"],
         "link": "assets/documents/digital-douglass.pdf"
     },
     {
         "id": "E-003",
         "title": "The Impact of AI on Modern Education",
         "description": "An essay on how artificial intelligence is shaping educational practices.",
-        "tags": ["technology", "education"],
+        "tags": ["technology", "literature", "writing"],
         "link": "assets/documents/ai-modern-education.pdf"
     }
    
